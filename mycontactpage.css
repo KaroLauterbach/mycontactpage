@@ -11,7 +11,7 @@ html, body {
   }
   
   nav {
-    font-family: "open-sans", serif;
+    font-family: "open-sans", sans-serif;
     font-size:2em;
     font-weight: bold;
     width: 100%; 
@@ -78,7 +78,7 @@ a:hover {
   }
 
   p {
-    font-family: "open-sans", serif;
+    font-family: "open-sans", sans-serif;
     font-size:1em;
     color: white; 
   }
